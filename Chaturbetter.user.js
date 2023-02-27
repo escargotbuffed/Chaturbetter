@@ -2,7 +2,7 @@
 // @name            Chaturbetter
 // @description     Chaturbetter adds to chaturbate all the features you've always dreamed of using a Tampermonkey script.
 // @author          escargotbuffed
-// @version         1.0.0
+// @version         1.0.1
 // @namespace       Chaturbetter
 // @icon            https://www.chaturbate.com/favicon.ico
 // @homepage        https://github.com/escargotbuffed/chaturbetter
