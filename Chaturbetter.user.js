@@ -18,18 +18,26 @@
 /* global $, VM */
 
 (() => {
+	// create column number selector
   $(".refresh").append(
     '<div><p href="#" class="reset-grids" style="height: 6px;"> Number of columns:</p><select name="columns_number" id="id_columns_number"><option value="4">4 columns</option><option value="5">5 columns</option><option value="6" selected="">6 columns</option><option value="7">7 columns</option><option value="8">8 columns</option><option value="9">9 columns</option><option value="10">10 columns</option></select></div>'
   );
-
+	// track selector changes
   $("#id_columns_number").change(() => {
 	localStorage.setItem('grid-count', document.getElementById("id_columns_number").value);
 	location.reload();
   });
-
-  VM.observe(document.body, () => {
     // Change Layout
+  VM.observe(document.body, () => {
     function custom_layout(grid_count) {
+        // Remove unnecessary hud information
+      $("body ul.sub-info").remove()
+      $("body ul.subject").remove()
+        // Fix the height of the labels
+      $("body .thumbnail_label").css({
+        bottom: "26px",
+      });
+        // Adjust preview size
       $("body .c-1").css({
         margin: "0 auto",
       });
@@ -38,7 +46,7 @@
         .css({
           width: $("body .c-1").outerWidth() / grid_count - 15,
           height: "auto",
-          maxHeight: `${170 + (11 - grid_count) * (3 * (12 - grid_count))}px`, // 4
+          maxHeight: "auto",
           margin: "5px",
           overflow: "hidden"
         });
@@ -72,7 +80,7 @@
 	if (!localStorage.getItem("grid-count")) {
 	localStorage.setItem('grid-count', document.getElementById("id_columns_number").value);
 	}
-	
+
 	// if there's any room it sets the grid-count setting
     if (rooms.length > 0) {
       grids = localStorage.getItem('grid-count');
