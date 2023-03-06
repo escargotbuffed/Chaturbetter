@@ -2,7 +2,7 @@
 // @name            Chaturbetter
 // @description     Chaturbetter adds to chaturbate all the features you've always dreamed of using a Tampermonkey script.
 // @author          escargotbuffed
-// @version         1.0.1
+// @version         1.0.2
 // @namespace       Chaturbetter
 // @icon            https://www.chaturbate.com/favicon.ico
 // @homepage        https://github.com/escargotbuffed/chaturbetter
@@ -103,8 +103,12 @@
         .css("user-select", "none")
         .css("-webkit-touch-callout", "none");
 
+      // for each room
       $(rooms).each((index, element) => {
-        // for each room
+        // add Recurbate search icon
+        let Recurbate ='<a class="recurbate" style="text-align: right" href="https://recurbate.com/performer/'+$(this).children("a").attr("href")+'">🔍</a>'
+        $(this).children(".details").children(".title").children("a").after(Recurbate)
+        //
         let timer;
         const name = $(element).find("> a").data("room")
           ? $(element).find("> a").data("room")
@@ -150,7 +154,6 @@
                 // animate thumbnail
                 $(thumbnail).attr(
                   "src",
-                  //`https://roomimg.stream.highwebmedia.com/riw/${name}.jpg?f=${Date.getTime().now()}`
                   `https://cbjpeg.stream.highwebmedia.com/minifwap/${name}.jpg?f=${Date.now()}`
                 );
               }, 660
