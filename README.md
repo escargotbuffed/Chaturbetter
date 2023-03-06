@@ -40,5 +40,6 @@
   <li>Animated thumbnails (hover your mouse and see a preview of the live).</li>
   <li>Change the preview size by changing the number of columns.</li>
   <img src="https://user-images.githubusercontent.com/102115247/221347388-54f5ada4-ef17-486d-9318-c9f860d9f9d3.png"/>
+  <li>Button to search for the model in Recurbate.</li>
 </ul>
 </p>
