@@ -2,7 +2,7 @@
 // @name            Chaturbetter
 // @description     Chaturbetter adds to chaturbate all the features you've always dreamed of using a Tampermonkey script.
 // @author          escargotbuffed
-// @version         1.0.2
+// @version         1.0.3
 // @namespace       Chaturbetter
 // @icon            https://www.chaturbate.com/favicon.ico
 // @homepage        https://github.com/escargotbuffed/chaturbetter
@@ -19,11 +19,9 @@
 
 
     // add Recurbate search icon
-    $(".room_list_room").each(function () {
-        let Recurbate ='<a class="recurbate" style="text-align: right" href="https://recurbate.com/performer/'+$(this).children("a").attr("href")+'">🔍</a>'
-        $(this).children(".details").children(".title").children("a").after(Recurbate)
+    $(".roomCard .age_gender_container").each(function () {
+        $(this).before('<a class="recurbate" style="text-align: right" href="https://recurbate.com/performer/'+$(this).siblings().attr("href")+'">🔍</a>')
     });
-(() => {
     // create column number selector
     $(".refresh").append(
         '<div><p href="#" class="reset-grids" style="height: 6px;"> Number of columns:</p><select name="columns_number" id="id_columns_number"><option value="4">4 columns</option><option value="5">5 columns</option><option value="6" selected="">6 columns</option><option value="7">7 columns</option><option value="8">8 columns</option><option value="9">9 columns</option><option value="10">10 columns</option></select></div>'
@@ -183,4 +181,3 @@
             return false;
         }
     });
-})();
