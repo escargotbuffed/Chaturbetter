@@ -5,31 +5,31 @@
 
 - **Advanced Search Filters**: Filter your search by gender, age range, and more for a tailor-made experience.
   
-![Filter](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/653b08b4-33f9-4046-989d-4a9f076d924b)
+[![Filter](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/653b08b4-33f9-4046-989d-4a9f076d924b)](https://chaturbetter.site)
 
 - **Real-Time Filtering**: Easily toggle to hide or show live streams from your blacklist, following list, new lives, and HD streams. Each live stream matching these options is highlighted with a border in the color of the respective filter button.
   
-![Filter2](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/e2a9151b-398a-45fe-86f9-bd639a491d32)
+[![Filter2](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/e2a9151b-398a-45fe-86f9-bd639a491d32)](https://chaturbetter.site)
 
 - **Sort-by Functionality**: Organize content by viewer count, broadcaster age, or time online to seamlessly navigate to the most relevant streams for your interests.
   
-![Sortby](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/70b49c3d-37b9-4ff1-b0f9-8b63b506d88c)
+[![Sortby](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/70b49c3d-37b9-4ff1-b0f9-8b63b506d88c)](https://chaturbetter.site)
 
 - **New Blacklist Feature**: Maintain your viewing preferences by managing streams you prefer not to see with our new blacklist feature.
   
-![blacklist](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/d63322f0-4025-4b33-8957-eca30517d506)
+[![blacklist](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/d63322f0-4025-4b33-8957-eca30517d506)](https://chaturbetter.site)
 
 - **Following Import**: Seamlessly import your following list from Chaturbate, keeping your favorites synchronized and easily accessible.
   
-![Profile](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/cc33de2c-8fee-4f2a-a955-0aab570c6e8a)
+[![Profile](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/cc33de2c-8fee-4f2a-a955-0aab570c6e8a)](https://chaturbetter.site)
 
 - **Webcam VOD Archive**: Access recorded webcam content with ease. A single click redirects you to sites hosting VODs of specific live streams, making it simple to explore and relive past broadcasts.
   
-![VOD](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/a442413e-4806-43fa-b334-2ce66ae3b41f)
+[![VOD](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/a442413e-4806-43fa-b334-2ce66ae3b41f)](https://chaturbetter.site)
 
 - **Dark and Light Mode**: Switch seamlessly between dark and light mode for a comfortable viewing experience tailored to your preference.
 
-![dark](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/33baf62f-a30e-46f4-818e-2fbfa4a639f9)
+[![dark](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/33baf62f-a30e-46f4-818e-2fbfa4a639f9)](https://chaturbetter.site)
 
 - **Live Thumbnails Update**: Experience the most current view of each live stream with our real-time thumbnail updates. Thumbnails are refreshed continuously to accurately reflect the current scene of the live, ensuring you have the latest visual information before choosing a stream.
 
