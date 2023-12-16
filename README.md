@@ -1,4 +1,4 @@
-# Chaturbetter
+# [Chaturbetter](https://chaturbetter.site) - [https://chaturbetter.site](https://chaturbetter.site)
 **Chaturbetter** offers a superior search and filtering experience for adult live streaming, enabling users to effortlessly discover and engage with live sex cams. Our platform enhances the way users find and interact with adult content on Chaturbate by providing advanced filtering options including age, gender, tags, and more.
 
 ## Key Features
