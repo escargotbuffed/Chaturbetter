@@ -1,42 +1,166 @@
-# [Chaturbetter](https://chaturbetter.com) - [https://chaturbetter.com](https://chaturbetter.com)
-**Chaturbetter** offers a superior search and filtering experience for adult live streaming, enabling users to effortlessly discover and engage with live sex cams. Our platform enhances the way users find and interact with adult content on Chaturbate by providing advanced filtering options including age, gender, tags, and more.
+# 🚀 **[Chaturbetter.com](https://chaturbetter.com) - Ultimate Adult Live Cam Search Engine**
 
-## Key Features
+Chaturbetter is an innovative adult live cam search platform specifically designed to enhance your browsing experience. Effortlessly discover the perfect live cam shows on Chaturbate with exclusive features and advanced search capabilities.
 
-- **Advanced Search Filters**: Filter your search by gender, age range, and more for a tailor-made experience.
-  
-[![Filter](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/653b08b4-33f9-4046-989d-4a9f076d924b)](https://chaturbetter.com)
+---
 
-- **Real-Time Filtering**: Easily toggle to hide or show live streams from your blacklist, following list, new lives, and HD streams. Each live stream matching these options is highlighted with a border in the color of the respective filter button.
-  
-[![Filter2](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/e2a9151b-398a-45fe-86f9-bd639a491d32)](https://chaturbetter.com)
+## 📌 **Infinite Scroll on Homepage**
 
-- **Sort-by Functionality**: Organize content by viewer count, broadcaster age, or time online to seamlessly navigate to the most relevant streams for your interests.
-  
-[![Sortby](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/70b49c3d-37b9-4ff1-b0f9-8b63b506d88c)](https://chaturbetter.com)
+Forget traditional pagination. Enjoy endless browsing without interruption. Simply scroll and load live streams continuously—just like your favorite social media apps.
 
-- **New Blacklist Feature**: Maintain your viewing preferences by managing streams you prefer not to see with our new blacklist feature.
-  
-[![blacklist](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/d63322f0-4025-4b33-8957-eca30517d506)](https://chaturbetter.com)
+---
 
-- **Following Import**: Seamlessly import your following list from Chaturbate, keeping your favorites synchronized and easily accessible.
-  
-[![Profile](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/cc33de2c-8fee-4f2a-a955-0aab570c6e8a)](https://chaturbetter.com)
+## 🎥 **Real-Time Live Cam Previews**
 
-- **Webcam VOD Archive**: Access recorded webcam content with ease. A single click redirects you to sites hosting VODs of specific live streams, making it simple to explore and relive past broadcasts.
-  
-[![VOD](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/a442413e-4806-43fa-b334-2ce66ae3b41f)](https://chaturbetter.com)
+Never again open a cam room based on outdated thumbnails. Our real-time preview feature updates every second, showing exactly what's happening live.
 
-- **Dark and Light Mode**: Switch seamlessly between dark and light mode for a comfortable viewing experience tailored to your preference.
+* Hover your mouse to enhance the preview frame rate.
+* Option to disable previews for improved performance.
 
-[![dark](https://github.com/Chaturbetter/Chaturbetter/assets/102115247/33baf62f-a30e-46f4-818e-2fbfa4a639f9)](https://chaturbetter.com)
+![Real-Time Previews](https://github.com/user-attachments/assets/829e77ec-ec49-43e5-adc0-a9137b9114e1)
 
-- **Live Thumbnails Update**: Experience the most current view of each live stream with our real-time thumbnail updates. Thumbnails are refreshed continuously to accurately reflect the current scene of the live, ensuring you have the latest visual information before choosing a stream.
+---
 
-- **Enhanced Thumbnail Display**: Our thumbnails are designed to be larger and minimalistic, maximizing screen space and focusing on essential visuals.
+## 🎯 **Instant Gender Filters**
 
-- **Ad-Free Experience**: Enjoy uninterrupted browsing on Chaturbetter. Our platform is completely free of ads, ensuring a smooth and unobtrusive streaming experience.
+Quickly filter results by gender: Women, Men, Couples, and Trans. Customize your search instantly to see only the cams you're interested in.
 
-- **Optimized for Ease**: Chaturbetter is designed for simplicity and ease of use, ensuring you spend less time searching and more time enjoying.
+* Easily toggle visibility for specific categories.
 
-- **Completely Free**: Dive into the Chaturbetter experience without any cost. Our platform is completely free to use.
+![Gender Filters](https://github.com/user-attachments/assets/1fd6c200-becd-4039-96c1-80dd7cda4a7a)
+
+---
+
+## 📐 **Customizable Grid Layout**
+
+Adjust the number of cam previews displayed per row based on your screen size and personal preferences.
+
+* Settings saved automatically per screen type.
+* Multi-monitor friendly adjustments.
+
+![Grid Layout](https://github.com/user-attachments/assets/4742fc1f-ab2c-4783-ad67-66113e6e4c46)
+
+---
+
+## 🔎 **Advanced Sorting Filters**
+
+Effortlessly find popular live streams or discover fresh content by sorting through:
+
+* Most/least viewers or followers
+* Stream age
+* Online duration
+
+These sorting options integrate seamlessly with infinite scroll.
+
+![Sorting Filters](https://github.com/user-attachments/assets/bd95978d-eb0c-4e99-99f0-eb92ea902cef)
+
+---
+
+## ⚙️ **Advanced Search Filters**
+
+Refine your search with precision:
+
+* Age range selection
+* Gender-specific filtering
+* Country and language options
+* High-definition streams
+* Newly started cams
+* Following list synchronization (requires Chaturbate login)
+
+![Advanced Search](https://github.com/user-attachments/assets/d2ed2885-16c0-45d0-8856-6550712e4339)
+
+---
+
+## 🔖 **Advanced Tag and Text Search**
+
+Find cams using specific tags or keywords easily:
+
+* Use `#` for tags (e.g., `#blonde`, `#redhead`).
+* Utilize operators like `or`, `and`, and `-` for enhanced searches (`#blonde or #redhead -asian`).
+
+![Tag Search](https://github.com/user-attachments/assets/e8460193-2652-4df5-9b6a-86af6225eb70)
+
+---
+
+## 🚫 **Blacklist Unwanted Rooms**
+
+Avoid unwanted cam rooms permanently:
+
+* Click 'X' to blacklist a cam.
+* Easily manage your blacklist.
+
+![Blacklist Feature](https://github.com/user-attachments/assets/e3a54642-0696-4a1c-9915-78e8f6eb00a8)
+
+---
+
+## ⭐ **Favorite Your Preferred Rooms**
+
+Mark your favorite cams:
+
+* Favorites always appear prominently with a gold border.
+* Quickly manage your favorites list.
+
+![Favorite Rooms](https://github.com/user-attachments/assets/95a32f89-54a2-4b6d-9c93-28f73d60d03c)
+
+---
+
+## 🔄 **Import Chaturbate Following List**
+
+Sync your Chaturbate following list seamlessly:
+
+* Real-time updates from your Chaturbate account.
+* Following rooms highlighted with white borders.
+
+![Following List Import](https://github.com/user-attachments/assets/d3522639-3a8e-4e2a-a563-054a26bdc04b)
+
+---
+
+## 📺 **Watch Multiple Cams Simultaneously**
+
+Enjoy the SidebySide feature to watch up to 4 cams at once:
+
+* Drag and reorder cams easily.
+* Automatically hides private or offline cams.
+* Fullscreen viewing experience.
+
+![Multi Cam View](https://github.com/user-attachments/assets/b98c11d4-1d89-41e5-acab-8477ede2377e)
+
+---
+
+## 🎨 **Room Status Color Codes**
+
+Quickly understand room statuses with color indicators:
+
+* 🟥 **Red border**: Blacklisted room.
+* ⬜ **White border**: Following list room.
+* 🟩 **Green border**: Newly added room.
+* 🟨 **Gold border**: Favorite room.
+* ⚫ **Black & white image**: Private or offline rooms.
+
+![Color Codes](https://github.com/user-attachments/assets/2cae282e-6f17-4d30-984b-9839781f5232)
+
+---
+
+## 🤖 **AI-Powered Facial Recognition for Adult Cam Models**
+
+Find your favorite streamers across platforms:
+
+* Upload a photo to find matches or similar-looking models.
+* Daily free credits available (additional credits purchasable with crypto).
+* Quickly verify similarity scores and latest activity.
+
+![AI Facial Recognition](https://github.com/user-attachments/assets/d4440a73-c447-4655-ad68-5e35a7ef20e0)
+
+---
+
+## 🌗 **Dark & White Mode**
+
+Choose between Dark Mode, White Mode, or auto-sync with your browser's theme:
+
+* Preferences automatically saved.
+
+![Theme Modes](https://github.com/user-attachments/assets/5702e7d3-d209-4e79-9018-e8ea4260a94c)
+
+---
+
+Enhance your adult live cam experience today with [Chaturbetter.com](https://chaturbetter.com)! 🌟
